@@ -1,2 +1,3 @@
 # abstractive-question-answering-system
-This repo contains the code to build an Abstractive question answering system on gradio with the help of BART model from hugging face. This has been fine tuned on the description of multiple wikipedia pages in the health and fitness domain.
+This is a simple chatbot designed for the healthcare domain. It can be used to answer questions which a patient might have (i.e medical terms) and also for a fictional hospital to keep track of their patients.
+
