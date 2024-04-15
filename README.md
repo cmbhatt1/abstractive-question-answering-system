@@ -13,5 +13,7 @@ Patients: Model has then been fine tuned on wikipedia articles and pages for Hea
 Management: Synthetic data generated using faker
 
 ## Working
-The data is scraped, processes and then stored in a vector database in chromadb which is open source. When a patient enters a query, it is converted to a vector and based on cosine similarity some data is retrieved.
+The data is scraped, processed and then stored in a vector database in chromadb which is open source. When a patient enters a query, it is converted to a vector and based on cosine similarity some data is retrieved.
 This data, with the help of BART, is converted to NLP. 
+
+
